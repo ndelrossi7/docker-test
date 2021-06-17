@@ -1,5 +1,6 @@
 FROM rocker/rstudio:latest
 
+
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN mkdir /home/your_giotto
